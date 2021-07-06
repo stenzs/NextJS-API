@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "name": "Иван",
+      "text": "lorem lorem ipsum",
+      "id": 1
+    },
+    {
+      "name": "Лена",
+      "text": "333",
+      "id": 2
+    }
+  ]
+}
